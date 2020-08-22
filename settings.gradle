@@ -1,0 +1,3 @@
+include ':addLib'
+include ':app'
+rootProject.name = "mavenarrtest"
